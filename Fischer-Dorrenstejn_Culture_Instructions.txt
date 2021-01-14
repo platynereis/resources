@@ -1,0 +1,168 @@
+Culturing Platynereis dumerilii
+
+by Albrecht Fischer & Adriaan Dorresteijn
+
+ 
+1. Introduction
+
+  This culture method is based on more than forty-five years of experience with a continuous culture of Platynereis dumerilii  in the laboratory using a procedure developed and a worm stock founded by Carl Hauenschild in 1955. Breeding Platynereis dumerilii is not trivial insofar as a certain minimum equipment is indispensable and as the culture requires a certain minimum attention and care. Our method requires a defined organismal community. It contains a mixture of microorganisms together with Platynereis some of which are indispensable as food; others may contaminate the cultures and when they become dominant (e.g. cyanobacteria, fungi or ciliates) may endanger the whole culture system. Although future students of Platynereis may streamline the culture method and make it simpler, we will describe the method as it works in our hands. Additional details can also be found in Hauenschild & Fischer (1969; see Title page in the right column).
+
+2. What you need!
+
+2.1. The worms
+   In the following, we will concentrate on Platynereis dumerilii . Much of the text can be applied to Platynereis megalops from the East coast of N America, the first nereidid reared from the egg to sexual maturity in captivity (E.E. Just, 1922). We have also cultivated P. massiliensis, a species differing largely in reproductive biology and requiring a different method of procuring offspring (Schneider et al. 1991).  P. bicanaliculata from the northern Pacific Ocean requires colder water (12 – 14°C; P.C.Schroeder, pers. comm.).
+
+   The safest source for a new culture of P. dumerilii is an existing laboratory stock. A number of European labs are breeding strains which mostly originate from Hauenschild’s original lab strain isolated from the Bay of Naples in 1953 and 1955. Another safe way is the collection of swarming, “epitokous” (sexually mature) P. dumerilii in the littoral zone of the coasts of the Mediterranean or of W Europe (Spain, France, Great Britain). What you can catch at the Atlantic coast of N America is not P. dumerilii but P. megalops: (although the key may tell you so). Collecting “atokous” (sexually immature) benthic stages of Platynereis at European coasts may cause problems: There is a sibling species, P. massiliensis, which cannot be distinguished from P. dumerilii before it has reached sexual maturity but differs dramatically from the latter species with respect to reproduction and early development (Hauenschild 1951, Schneider et al. 1991). So, if you start your culture from an existing stock, you will probably begin with the benthic worms, whereas you will start with eggs, embryos and swimming larvae when beginning with your own broods from epitokes caught in the wild. Neither of the two ways will present serious problems, but your cultures will require food immediately, so start your cultures of the algae (Tetraselmis marina) before starting the worm cultures!
+
+   P. dumerilii can be easily transported either as swimming larvae or, more safely, after metamorphosis into 3-segmented young worms. Worms at the sessile stage should be allowed to settle for least for a day in the transport container so that they can build tubes before traveling into which they can retreat during shipment. The container should be filled to a larger part with air to provide enough oxygen. Temperature during the transport should not exceed 20 – 22° C for an extended period. Vacuum bottles are fine for transporting the swimming early stages but the use of vulcanized fittings will kill them very effectively!
+
+2.2 Seawater
+
+   Natural seawater has a very complicated composition. We (and H.-D. Pfannenstiel) have tried to use artificial seawater (Tropic Marin salt mixture) in the Platynereis cultures but found a decrease in reproductive success. Even though we have not done a systematic study we would strongly recommend the use of natural seawater. Obtaining natural seawater of good quality can be surprisingly difficult. You need unpolluted seawater of full salinity (≥32 per mille salinity); P. d. does not tolerate estuarine waters. The seawater needs to be filtered to remove plankton and detritus. Otherwise you cannot store your seawater without fouling. The best sources of filtered natural seawater are marine stations which operate aquariums. Seawater can be stored cool (<18°C) and in the dark (to prevent algal growth) for several months. We keep it in 60 liter polyethylene barrels from which we fill 10 liter glass bottles with an outlet, rubber plug and glass cock close to the bottom so that particles in our seawater can settle and don’t make their way into our Erlenmeyer flasks. These glass bottles should also be kept in the dark. Before use, the natural seawater must be heated by whatever method to 85°, e.g., in large (3 liter) Erlenmeyer flasks on a plate, to kill prokaryotes and eukaryotic microorganisms. Avoid higher temperatures, which will cause some salts to precipitate irreversibly. Note that you should have 24 hours for the "pasteurized" seawater to cool to room temperatures. If this “pasteurization” is omitted, the community in your culture boxes will soon run out of control. Food algae can be cultured in artificial seawater containing certain additives (see below). Postlarval stages and adult worms can be kept in plastic boxes containing a mixture of 50% natural and 50% artificial (Tropic Marin) seawater sterilized as described above.
+
+   Transferring large quantities of seawater requires an electric pump.
+
+TABLE I
+Composition of 10 liters of artificial seawater:
+
+300 g of Tropic Marin and 10 ml of each of the following 5 stock solutions. Stock solution 4 should be added after sterilization
+
+Stock solution 1
+2 g Na2-EDTA and 20 mg FeCl3
+in 100 ml of distilled water
+
+Stock solution 2
+200 mg H3BO4 and 20 mg Na2MoO 4 in 50 ml of distilled water are added to 50 ml containing 230 mg ZnSO 4, 65 mg MnSO4, 0.6 mg CoSO4 , 0.1 mg CuSO 4
+
+Stock solution 3
+2.2 g KBr, 2 mg KI, 0.6 mg LiCl, 6 mg RbCl, 380 mg SrCl2 , 3 mg AlCl3 consecutively dissolved in 100 ml of distilled water
+
+Stock solution 4
+10 g NaNO3 and 2 g Na2HPO4 in 100 ml of distilled water
+
+Stock solution 5
+2 g Sodiumsilicate in 100 ml of distilled water
+
+2.3 Algae culture and additional foods 
+
+   Tetraselmis marina, a sessile green flagellate, can be grown under bright, daylight-type artificial illumination. The high light intensities required by T. marina differ from the dim light preferable for the Platynereis culture boxes: If these get too much light, populations of autotrophic flagellates and cyanobacteria may explode and require too much oxygen at night. So, don’t place algae cultures and Platynereis containers too close together. This should also help contaminations of your alga cultures with other members of the bottom community of your Platynereis cultures. 
+
+   As a culture medium an artificial seawater with increased nitrate and phosphate content is used (see Recipe in Table I). This solution is heated to 85° C (and not more) in order to kill eukaryotic organisms a day before use. Alga culture requires flat-bottom containers; we use 20 x 20 cm polystyrene freezer boxes containing 500 ml artificial seawater. We start a new series of algal cultures every week. One of the boxes of a 14 day-old culture serves as the mother culture for starting a new series: Most of the medium from this culture is poured into a clean container for waste water; the bottom layer with the mat of green algae is rubbed off with a clean brush (no metal parts!). The green suspension is collected in a small flask from which it must be removed within hours by a clean Pasteur pipette for seeding the new cultures. All the algae in the two week old cultures in the other boxes are harvested in the same way and are, after settling over night, dispensed among the Platynereis cultures the next day (not later !). Be careful in maintaining an absolutely clean “germline” separate from the algae used as food! Clean the empty boxes with hot tap water and distilled water and once in a while remove calcareous sediment crusts with diluted HCl. To feed the worms weekly, you will need two sets of algae breeding containers, e.g., 2 series of 8 containers.
+
+   A culture of Tetraselmis marina can be obtained from a laboratory breeding Platynereis, or from algae stock centers such as the one at SAG Goettingen . Another useful flagellate is the heterotrophic dinoflagellate Oxyrrhis spec. It can be cultivated on cultures of Dunaliella salina, an easy-to-grow green flagellate commonly used in laboratories. Dunaliella and Oxyrrhis are kept in 250 – 500ml Erlenmeyer flasks. Several drops of an Oxyrrhis culture can be added to an early culture of Platynereis. The dinoflagellates feed excessively on tiny fish food particles (and bacteria living on them?) and on green flagellates which makes their locomotion sluggish. Juvenile Platynereis now can grab them and do so especially close to sedimented fish food particles where Oxyrrhis accumulate in considerable flocks. 
+   The Platynereis cultures are fed Tetramin® fish food flakes weekly. The flakes are ground in a mortar and the resulting flour is left swelling in seawater for an hour. This suspension is then dispensed sparingly among the Platynereis cultures. Beware of overfeeding! Too much Tetramin will cause the culture to start fouling. Experiment with how little will suffice to satisfy your worms and leave the bottom community intact!
+
+    Once in a while, the adult worms may be fed minced spinach leaves. Don’t use chemically polluted spinach (which means: grow it yourself!). Watch the worms grabbing the leaf fragments which they also use to adorn their tubes for a while. Spinach is a facultative food component for Platynereis . 
+
+
+2.4 The Platynereis culture room and its periodical illumination
+
+   Platynereis dumerilii is an inhabitant of the warmer coasts of Europe. The worms and their embryos can stand room temperature (one of the outstanding advantages in using this experimental marine animal!) and we breed them at constant temperature (18 or 19°). Constant temperature can be achieved by professional air conditioners of the type used in food stores. To avoid fungal contamination you must allow the damp air to leave the culture room. The cooled air should flow at the ceiling instead of at the level of any persons sitting and working in the culture room. An even temperature is necessary to avoid temperature peaks which might kill the worms; it also promotes development at a repeatable rate. 15° C is the lower limit for early development to take place in our material. Be sure that the capacity of your air conditioner is sufficient to overcome the summer peak temperatures outdoors: Hot days are the ggreatest threat to your cultures!
+   To breed Platynereis successfully, you need to control the light regime. Each worm spawns only once in its life: both reaching maturity and the spawning event are synchronized by a lunar light cycle. You thus need artificial illumination exclusively in your culture room with a timer switching all the lights on and off in a daily regime. Maintain your worms under "summer conditions", i.e., 16h of light and 8h of absolute darkness. In addition, your worms need a “moon”, a low-light lamp (we use a 15 W bulb) which is switched on for a period of seven days and nights to give one week of “full moon-sensation” in a 28-day cycle. Errors in the day-night- and lunar light cycles of your culture room have long-term negative effects upon your breeding success, so keep untrained people away from playing with your light switches and window shades! Make a chart of the moon phases on a calender sheet and mark the start of collection of the male and female epitokes (starting six days after the moon phase).
+
+2.5 Culture setup
+
+   The adult Platynereis worms are kept in 20 x 20 cm polystyrene boxes in 500 ml of “pasteurized” seawater. Here, they build their tubes, preferentially in the corners of the box and/or parallel and apposed to neighbor tubes. Only transparent boxes will allow you to illuminate and watch the worms in both incident and transparent light. Aeration of the seawater is achieved by glass tubes entering through a hole in the center of the box lid; clean these glass tubes once in a while with a pipe cleaner. Use a high-volume, low-pressure aquarium pump. What you need is a gentle stream of air which by permanent bubbling essentially promotes convection of the seawater. A strong stream of air will cause too much evaporation which will raise the salinity too much over the two weeks between water changes. For the same reason, the lid of the box should fit tightly. 
+   The upper parts of the culture box walls sometimes need cleaning in order to avoid the formation of films of algae and cyanobacteria . Otherwise some of your worms will climb up the walls and try to settle there where they will eventually dry out. Rinse away such climbers before wiping off the alga film which is done with a clean  towel (washed without soap and detergent!).
+   Seawater is exchanged by simply pouring out the used water into a glass bowl and replacing it with 500ml of freshly “pasteurized” seawater, perhaps after cleaning the walls of the boxes. Some worms may have tried to escape: bring them back with your pipette.
+  
+   The worms are fed once a week, after exchanging their seawater.
+
+
+2.6 Handling the worms
+
+   Platynereis dumerilii should not be handled with forceps. We handle them with stainless steel needles and self-made pipettes. The tips of commercial Pasteur pipettes are too narrow and their glass is too thin-walled. Take a 25 cm piece of lab glass tubing (about 7 mm outer diam.) and fire-polish both ends. Heat the middle of the glass tube in the flame of a Bunsen burner and pull a symmetric constriction with an inner width of about 3 mm. Cut the constriction in the middle, fire-polish the cuts and fit a rubber cap on your new pipette (don´t use vulcanized (colored) rubber, poison!). Silicone caps may be too stiff. With a needle or with your fire-polished pipette you can easily chase a worm out of its tube by gentle poking. You can easily pull up the worm into the pipette by sudden suction. But be sure to expel quickly or they will settle and stay there. Remove Platynereis tube silk and adhering faeces from your pipettes with a pipe cleaner once in a while and rinse them with hot tap water.
+
+ 
+2.7 Observing Platynereis
+
+   For studying Platynereis, you will need a dissecting stereomicroscope with a long distance objective lens, an indirect or transillumination stage and a magnification range between 6.3 x and 40x. A long-distance objective lens is required because you will need to observe the worms in their tubes. So, you must put the whole culture box under the dissecting scope and you need a working distance of 6 cm or more. A transillumination stage is necessary because you will need sufficient image contrast when examining early development stages at high magnification. For working with incident light, a fiber light source is preferable. For watching cleavage and larvae you will need a compound microscope, preferably with Differential Interference Contrast (“Nomarski optics”; see Development).
+
+
+2.8 Breeding and raising Platynereis dumerilii 
+   Reproducing under laboratory conditions is the most important feature of Platynereis dumerilii. Worms can be continuously available at every stage of development and of sexual maturation. However, breeding this animal in the laboratory requires continual attention.
+
+   Thanks to the artificial moonlight cycle, most of your worms will become mature during a ten-day period with a maximum at about 16 days after switching off the “moonlight”. If you would leave the sexually mature worms in their boxes, they might lack a mature partner (sexual maturity only lasts one day/night!). Or, if it mates successfully, the eggs will be scattered all over the box and have to be fished out, a tedious piece of work. But the worst result would be heavy protist contamination of the jelly surrounding the fertilized eggs. 
+   Thus, the maturing worms need to be segregated every second day during the monthly maturation period, before they swarm and spawn. Isolating and rinsing them is the best chance to start clean cultures again! You can recognize maturing Platynereis in their tubes because of their empty gut, the decreasing number of white pigment cells in the  trunk and the increasing opaqueness of the worms as the gametes fill the body cavity. As a beginner, you may have problems to discriminate between females and males: As sexual maturation proceeds, the females will become lemon-colored, with lemon-colored eggs visibly filling the body cavity. The males will have a creamy white anterior, and the larger posterior portion of the trunk will be red from the increased number of blood vessels. Poke them out of their tubes and separate the sexes into two large glass bowls with 200 – 400 ml of seawater and aeration where they will rebuild tubes and mostly not spawn out before you place the sexes together. Change the seawater in these bowls every day. Once fully mature, the worms will leave their tubes and will search for a partner by rapid swimming during the night. When you check the epitokes in the morning, you will instantaneously recognize those which have tried to spawn the preceding night: They have left their tubes or, after their nocturnal swarming, have procisionally crept back into a tube, often with their tails waving slowly outside the tube opening.
+
+   The following morning, bring one or a few mature male(s) and female(s) together in one glass finger bowl (crystallizing bowl) with 20 - 30 ml of seawater. The worms will recognize each other’s sex pheromones immediately and discharge their gametes in a minute in a rapid dance (film C1577, Institut für den Wissenschaftlichen Film, Göttingen; <www.iwf.de>). The eggs will immediately be fertilized and sink to the bottom. Change the supernatant about two minutes after sperm ejection. In the course of a few minutes, the fertilized eggs will discharge their cortical jelly precursor material and become sticky. Swelling of the egg jelly is an absolutely certain indicator of successful insemination. Now distribute the brood with a fresh Pasteur pipette into 3 - 4 glass bowls in order to avoid crowding and oxygen depletion and let them develop without aeration. The mated females are discarded. The males can be used for additional matings at the same occasion. Seawater from a bowl with a freshly mated pair will readily induce spawning also in an isolated female which indicates the chemical nature of the spawning signals exchanged between the partners. If you are short of mature worms, you can store ripe males in the refrigerator and use them, mostly with success, the next day. Artificial assistance in spawning is possible in a male dancing but unwilling to spawn: just press it a little with a sufficiently clean finger tip (not possible for smokers): a cloud of sperm will come free from the tail. There is little help, however, for females unwilling to spawn: if you try to remove the eggs from the coelom you will find them sticky and not ready for fertilization. 
+
+   If you don’t separate the sexes in your collection of matures before the spawning night, you may get lots of fertilized eggs as well. However, you won’t know the exact time of fertilization and you cannot keep them as clean as when they spawn by pairs as described above. 
+
+   Now place all the bowls containing eggs in transparent containers and let them develop till the other morning; then place these boxes on a table and illuminate them from one side (e.g., with a desk lamp). The trochophore larvae hatched from the egg jelly will all assemble towards the upper water rim at the illuminated side by a positive phototactic reaction. Here you can collect them with a fresh Pasteur pipette and transfer them into a fresh bowl thereby isolating  them from decaying egg jelly, from damaged embryos and larvae and from any protists which may have made their way into the bowl. Don’t try to collect the last larvae from the bottom: you may induce decay in your collection of healthy larvae.
+
+   The trochophores may be left for another 2 – 3 days in their glass bowl. On their 7th day of life at the latest you have to transfer them into their penultimate environment: Glass petri dishes 15 – 20 cm in diameter, filled with about 8mm of seawater. Place these dishes at a dim place in your culture room. The brood has reached the stage of a three-segmented young worm still capable of swimming by ciliary motion (“nectochaeta larva”). Now, these tiny worms start to build their first tubes and, after about 7 days, start feeding. Spread a few drops of your harvested Tetraselmis algae over the dish bottom, add a few drops of the lightly milky supernatant of your Tetramin® powder suspension and, if possible, a few drops of your Oxyrrhis culture. Successful feeding such a young culture is the ultimate test of your skill: all too often these young cultures are overfed and suffocate. So, check their condition dayly using your dissecting microscope, and if only a few algae etc. are left with many hungry young worms, then you can add a little food again. These petri dishes should not look green but just a slightly greenish tinge! 
+
+   After four to six weeks of living in Petri dishes, the young worms are gently brushed off using a metal-free brush or pencil: rice straw/bamboo pencils sold at shops with artists’ equipment are perfect for this purpose. The young worms are now placed in their definitive home, the polystyrene box. Survival rates of the individual broods are very different, so you may start a new culture box with one or several broods. Leave such a new culture un-aerated for a couple of days until the young worms will have firmly settled and don’t change the seawater for about six weeks. Label the cultures with the date of spawning and any other information you need..
+
+
+
+TABLE II - Schedule of duties in the culture room
+
+Monday:
+-check the thermograph (replace recording chart)
+-check the presence of epitokes in the culture boxes*
+-select swarming epitokes from the bowl for breeding*
+-change the water in the bowls of epitokes*
+-pasteurize seawater for coming thursday
+-feed spinach (small amount!)
+
+Tuesday:
+-switch on/off the artificial moon**
+-select swarming epitokes from the bowl for breeding*
+-change seawater in bowl of epitokes*
+-collect swimming trochophores (yesterday´s breeding)
+
+Wednesday:
+-check the presence of epitokes in the culture boxes*
+-select swarming epitokes from the bowl for breeding*
+-change seawater  in bowl of epitokes *
+-collect swimming trochophores (yesterday´s breeding)
+-harvest Tetraselmis algae from the boxes (leave it
+ standing till tomorrow)
+-start a new culture of Tetraselmis
+-transfer a small volume of Dunalliela stock to a small
+ Erlenmeyer flask with artificial seawater
+-transfer a small volume of Oxyrrhis to last week´s
+ culture of Dunalliela
+-clean aeration glass tubes with pipe cleaner
+-clean polystyrene boxes and Erlenmeyer flasks with
+ diluted HCl
+
+Thursday:
+-the seawater should be exchanged every 14 days
+ (consult the calender)
+-feed young stages with supermatant of Tetraselmis
+-feed the worms with sedimented Tetraselmis
+-grind Tetramin® fish food in a mortar and add some
+ seawater
+-moderately feed the worms with the soaked fish food
+-collect swimming trochophores (yesterday´s breeding)
+-nectochaetes can be transferred from finger bowls to small petri dishes (add 10 drops of Oxyrrhis)
+-check the aeration system in the boxes after
+ exchanging the seawater and feeding
+
+Friday:
+-check the presence of epitokes in the culture boxes*
+-select swarming epitokes from the bowl for breeding*
+-change seawater  in bowl of epitokes *
+-at the age of 4-6 weeks the juveniles should be
+ transferred from the petri dishes to polystyrene boxes,
+ but leave them unaerated for several days.
+-once the animals in a box get fewer (due to the constant losses of epitokes) they may me put together with individuals of approximately the same age.
+
+
+* starting one week after the moon phase
+** to start or terminate the 7-day moon phase
+
+3. What you don’t need
+
+a)    No chemicals, no soap, no detergent, no felt pens in the culture room! 
+Never use soap or other detergent when you wash the culture boxes, the glassware, the boxes for algae culture or the towels used for cleaning the walls of the boxes. Hot water or, if necessary, diluted HCl is our method of cleaning. Rinse with distilled water and let these items dry completely before use! Paper towels are sometimes insecticide-treated, so don’t use them. Students tend to label your glassware with felt pens: this is poison as soap and detergents. Check where the pump takes the air from which is blown into your cultures. Make sure that it will not spill oil into your cultures.
+
+b)    No exchange of glass and plastic ware with other labs: Work with your own set and never mix it with glassware from other labs.
+
+c)    No salt crusts! Seawater aggressively corrodes all metals and, upon evaporation, leaves crusts of wet salt. So, be tidy and immediately clean the place where you have spilled seawater. Especially endangered are optical equipment and books or other paper (e.g., research notes). No rusty equipment whatsoever in your culture room!
+
+d)    No irregular schedule!Maintain a regular weekly schedule of changing seawater, feeding, start and harvesting of algae cultures, “moon rise” and “moon set”, sterilization of seawter (which requires a day for cooling down to your culture room temperature !) etc. A regular schedule helps you remember to perform the necessary procedures. If you have done your duty for a while, your cultures can, on the other hand, stand your absence for two weeks or so, as long as temperature control, day- and moonlight cycles and your air pump will continue to work reliably.
+
